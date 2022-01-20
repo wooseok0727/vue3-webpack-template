@@ -32,6 +32,7 @@ module.exports = {
       },
       'svg': 'always',
       'math': 'always'
-    }]
+    }],
+    'vue/multi-word-component-names': 'off'
   }
 }

@@ -4,7 +4,7 @@
 
 ```bash
 # Default.
-$ npx degit woooseok0727/vue3-webpack-template DIRECTORY_NAME
+$ npx degit wooseok0727/vue3-webpack-template DIRECTORY_NAME
 
 # Start!
 $ cd DIRECTORY_NAME
